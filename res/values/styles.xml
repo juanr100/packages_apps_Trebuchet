@@ -30,7 +30,7 @@
     </style>
 
     <style name="LauncherTheme" parent="@style/BaseLauncherTheme">
-        <item name="allAppsScrimColor">#EAFFFFFF</item>
+        <item name="allAppsScrimColor">#EAF2F2F2</item>
         <item name="allAppsInterimScrimAlpha">46</item>
         <item name="allAppsNavBarScrimColor">#66FFFFFF</item>
         <item name="popupColorPrimary">#FFF</item>
@@ -63,7 +63,7 @@
     </style>
 
     <style name="LauncherTheme.DarkText" parent="@style/LauncherTheme">
-        <item name="workspaceTextColor">#FF212121</item>
+        <item name="workspaceTextColor">#FF252525</item>
         <item name="allAppsInterimScrimAlpha">128</item>
         <item name="workspaceShadowColor">@android:color/transparent</item>
         <item name="workspaceAmbientShadowColor">@android:color/transparent</item>

@@ -50,7 +50,7 @@
         launcher:numColumns="4"
         launcher:numFolderRows="4"
         launcher:numFolderColumns="4"
-        launcher:numHotseatIcons="5"
+        launcher:numHotseatIcons="4"
         launcher:defaultLayoutId="@xml/default_workspace_4x5" >
 
         <display-option
@@ -89,7 +89,7 @@
             launcher:name="Nexus 5"
             launcher:minWidthDps="335"
             launcher:minHeightDps="567"
-            launcher:iconImageSize="50"
+            launcher:iconImageSize="56"
             launcher:iconTextSize="13.0"
             launcher:canBeDefault="true" />
 
@@ -98,17 +98,17 @@
     <grid-option
         launcher:name="5_by_5"
         launcher:numRows="5"
-        launcher:numColumns="5"
+        launcher:numColumns="4"
         launcher:numFolderRows="4"
         launcher:numFolderColumns="4"
-        launcher:numHotseatIcons="5"
-        launcher:defaultLayoutId="@xml/default_workspace_5x5" >
+        launcher:numHotseatIcons="4"
+        launcher:defaultLayoutId="@xml/default_workspace_4x5" >
 
         <display-option
             launcher:name="Large Phone"
             launcher:minWidthDps="406"
             launcher:minHeightDps="694"
-            launcher:iconImageSize="56"
+            launcher:iconImageSize="58"
             launcher:iconTextSize="14.4"
             launcher:canBeDefault="true" />
 
